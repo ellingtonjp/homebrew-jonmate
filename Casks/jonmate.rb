@@ -1,4 +1,4 @@
-cask "mailmate" do
+cask "jonmate" do
   version "6065"
   sha256 "43ee94d3d21ea0e668d0d7a17f77e1da6cfc29131e371595fad8ecc09a4b4d8b"
 
